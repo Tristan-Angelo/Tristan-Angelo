@@ -54,7 +54,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Tristan-Angelo&theme=dark&hide_border=true&bg_color=0d1117)
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Tristan-Angelo&theme=dark&hide_border=true&bg_color=black)
   
 </div>
 
