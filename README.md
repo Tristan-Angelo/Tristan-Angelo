@@ -1,101 +1,120 @@
+# ✨ Modern Minimalist Glass Theme README
+
+<!-- Glass morphism header with subtle gradient -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,30&height=200&section=header&text=Hello%20World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20digital%20experiences%20with%20precision&descAlignY=60&descSize=16" />
+</div>
+
+<!-- Elegant typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=System+Online...;Grim+Reaper+Detected.;Initializing+Cyber+Environment..." alt="Glitch Boot" />
-</p>
-
-<!-- 🌐 Glowing animated SVG background (optional aesthetic) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines.svg" width="100%" />
-</p>
-
----
-
-## 👾 about:grim-reaper.exe
-
-```bash
-> identity
-Role      :: Full-stack Web Dev ⚡
-Location  :: PH 🇵🇭
-Languages :: JavaScript, PHP, Vue, React, Tailwind, Laravel
-Design    :: Figma, UI Systems, Dark Mode UIs
-Focus     :: Speed, Aesthetics, Accessibility
-```
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-## 📡 Status Monitor
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-## ⚡ Access Ports
-
-<p align="center">
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-## 🧠 Terminal Log
-
-```bash
-> recent_projects
-[✓] Building responsive web applications with React & Tailwind
-[✓] Crafting dark mode UI systems in Figma
-[✓] Optimizing Laravel backend performance
-[~] Exploring new cyberpunk design patterns
-[~] Contributing to open source projects
-
-> current_mission
-Building interfaces that feel like dreams while debugging reality...
-
-> echo "Coding the future... with neon in the rain."
-"Coded at midnight with Tailwind wings & React dreams."
-
-> exit
-```
-
-## ⚠️ Surveillance Feed
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
-
-## 🧬 Final Transmission
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <em>"Build like a machine, debug like a human. Make interfaces that feel like dreams."</em> — 🧠 Grim Reaper
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=22&pause=1000&color=6B73FF&center=true&vCenter=true&width=435&lines=Designer+%26+Developer;Minimalist+at+Heart;Building+Clean+Interfaces" alt="Typing Animation" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff00ff&style=flat-square&label=VISITORS" alt="Profile Views" />
-</p>
+## 🎯 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+**Currently Working On**
+- 🔮 Next.js applications with modern UI/UX
+- 🎨 Design systems & component libraries  
+- ⚡ Performance optimization & accessibility
+- 🌱 Learning Three.js & WebGL
+
+</td>
+<td width="50%">
+
+**Focus Areas**
+- Clean, semantic code architecture
+- Pixel-perfect responsive design
+- User-centered interface design
+- Modern web performance standards
+
+</td>
+</tr>
+</table>
+
+## 💎 Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=f0f0f0" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=f0f0f0" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=f0f0f0" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=f0f0f0" alt="Tailwind" />
+
+**Design**
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=f0f0f0" alt="Figma" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=f0f0f0" alt="Framer" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white&labelColor=f0f0f0" alt="Adobe XD" />
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=f0f0f0" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=f0f0f0" alt="Git" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=f0f0f0" alt="Vercel" />
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true&title_color=6B73FF&text_color=333&bg_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&stroke=6B73FF&ring=6B73FF&fire=6B73FF&currStreakLabel=333" />
+</div>
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
+</a>
+
+</div>
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6B73FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+## 💭 Philosophy
+
+<div align="center">
+  <i>"Simplicity is the ultimate sophistication. Every pixel has a purpose."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6B73FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<!-- Glass morphism footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,30&height=120&section=footer" />
+</div>
