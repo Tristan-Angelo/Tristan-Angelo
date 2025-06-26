@@ -46,15 +46,15 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tristan-Angelo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tristan-Angelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Angelo&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Angelo&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tristan-angelo&)
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Tristan-Angelo&theme=dark&hide_border=false)
   
 </div>
 
