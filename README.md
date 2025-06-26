@@ -64,9 +64,9 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project-name-1&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/YourUsername/project-name-1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&repo=DevDate&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Tristan-Angelo/DevDate)
 
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project-name-2&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/YourUsername/project-name-2)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&LiBoTrack-App&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Tristan-Angelo/LiBoTrack-App)
 
 </div>
 
