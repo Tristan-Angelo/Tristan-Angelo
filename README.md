@@ -94,17 +94,13 @@
   
   **"Code is poetry written in logic"**
   
-  ![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Tristan-Angelo/count.svg)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
   
 </div>
 
 ---
-
-## ▸ Commits
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tristan-Angelo/Tristan-Angelo/output/pacman-contribution-graph-dark.svg">
