@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://github.com/Tristan-Angelo/LiBoTrack-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&repo=LiBoTrack-App2&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&repo=LiBoTrack-App&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
 </a>
 
 </div>
