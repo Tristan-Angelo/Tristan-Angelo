@@ -54,7 +54,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tristan-Angelo&theme=github-dark-blue&hide_border=true&background=0d1117)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tristan-angelo&)
   
 </div>
 
@@ -101,3 +101,8 @@
 </div>
 
 ---
+
+## ▸ Profile Views
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tristan-Angelo&label=Profile%20views&color=0e75b6&style=flat" alt="Tristan-Angelo" /> </p>
+
