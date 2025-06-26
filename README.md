@@ -60,18 +60,6 @@
 
 ---
 
-## ▸ Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&repo=DevDate&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Tristan-Angelo/DevDate)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&LiBoTrack-App&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Tristan-Angelo/LiBoTrack-App)
-
-</div>
-
----
-
 ## ▸ Connect
 
 <div align="center">
