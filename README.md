@@ -65,24 +65,24 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true&title_color=6B73FF&text_color=333&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tristan-Angelo&show_icons=true&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-Angelo&layout=compact&theme=graywhite&hide_border=true&title_color=6B73FF&text_color=333&bg_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&stroke=6B73FF&ring=6B73FF&fire=6B73FF&currStreakLabel=333" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tristan-Angelo&theme=default&hide_border=true&stroke=6B73FF&ring=6B73FF&fire=6B73FF&currStreakLabel=333" />
 </div>
 
 ## 🎨 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
+<a href="https://github.com/Tristan-Angelo/PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&repo=PROJECT_1&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
+<a href="https://github.com/Tristan-Angelo/PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tristan-Angelo&repo=PROJECT_2&theme=graywhite&hide_border=true&title_color=6B73FF&icon_color=6B73FF&text_color=333&bg_color=ffffff" />
 </a>
 
 </div>
