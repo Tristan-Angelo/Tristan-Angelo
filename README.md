@@ -1,4 +1,4 @@
-# ◉ Hello, I'm [Your Name]
+# ◉ Yo, I'm Tristan Angelo
 
 <div align="center">
   
@@ -54,7 +54,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Tristan-Angelo&theme=dark&hide_border=false)
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Tristan-Angelo&theme=dark&hide_border=true)
   
 </div>
 
