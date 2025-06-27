@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Developer%20•%20Creator%20•%20Dreamer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20digital%20experiences%20with%20precision&descAlignY=55&descSize=15)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=282828&text=Wonderer&section=header&reversal=false&textBg=false&fontColor=eceff1&fontSize=62&fontAlign=50&fontAlignY=45&animation=twinkling)
   
 </div>
 
